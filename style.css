@@ -1,8 +1,8 @@
 body {
-  background-color: #234987;
+  background-image: url("https://png.pngtree.com/background/20210712/original/pngtree-cute-hand-drawn-style-mathematics-education-pink-background-picture-image_1176713.jpg");
 }
 h3{
-  color: #826AED;
+  color: #CD8B76;
   font-size: 300%;
   letter-spacing: 5px;
   text-align: center;
@@ -11,7 +11,7 @@ h3{
 }
 ul{
   list-style-type: none;
-  background-color: #826AED;
+  background-color: #E8DBC5;
   width: 100%;
   overflow: hidden;
   position: fixed;
