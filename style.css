@@ -25,11 +25,11 @@ li{
 }
 li a{
   display: block;
-  color: white;
+  color: #CD8B76;
   text-decoration: none;
   padding: 15px;
 }
 li a:hover{
   background-color: antiquewhite;
-  color: black;
+  color: #6B4B3E;
 }
