@@ -1,8 +1,8 @@
 body {
-  background-color: #234987;
+  background-color: #E9EDDE;
 }
 h3{
-  color: #826AED;
+  color: #CD8B76;
   font-size: 300%;
   letter-spacing: 5px;
   text-align: center;
@@ -11,7 +11,7 @@ h3{
 }
 ul{
   list-style-type: none;
-  background-color: #826AED;
+  background-color: #E8DBC5;
   width: 100%;
   overflow: hidden;
   position: fixed;
@@ -25,11 +25,11 @@ li{
 }
 li a{
   display: block;
-  color: white;
+  color: #CD8B76;
   text-decoration: none;
   padding: 15px;
 }
 li a:hover{
   background-color: antiquewhite;
-  color: black;
+  color: #6B4B3E;
 }
